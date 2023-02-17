@@ -6,8 +6,8 @@
         {
             Console.WriteLine("Welcome to Line Comparison Problems");
 
-            LenghtCalculation lenghtCalculation = new LenghtCalculation();
-            lenghtCalculation.lenghtCalculation();
+            CheckEquality checkEquality = new CheckEquality();
+            checkEquality.checkEquality();
         }
     }
 }
