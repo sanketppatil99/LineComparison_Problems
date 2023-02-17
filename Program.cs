@@ -6,8 +6,8 @@
         {
             Console.WriteLine("Welcome to Line Comparison Problems");
 
-            CheckEquality checkEquality = new CheckEquality();
-            checkEquality.checkEquality();
+            CompareTwoLines compareTwoLines = new CompareTwoLines();
+            compareTwoLines.compareTwoLines();
         }
     }
 }
